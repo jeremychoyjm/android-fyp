@@ -1,4 +1,4 @@
-Android App for Final Year Project
+Final Year Project (Android)
 --
 
 Reference
