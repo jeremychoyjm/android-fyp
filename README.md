@@ -1,5 +1,6 @@
 Final Year Project (Android)
 --
+Gradle sync, build and run.
 
 Reference
 --
